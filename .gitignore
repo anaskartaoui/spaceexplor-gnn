@@ -1,0 +1,15 @@
+# Virtual environment
+venv/
+.env
+
+# Football tracking data files (Never push raw datasets to GitHub)
+data/
+*.json
+*.csv
+*.parquet
+
+# Python cache & weights
+__pycache__/
+*.pt
+*.pth
+.DS_Store
