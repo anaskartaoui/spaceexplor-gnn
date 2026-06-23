@@ -1,0 +1,8 @@
+# Data Processing
+polars>=0.20.0
+kloppy>=3.0.0
+scipy>=1.10.0
+
+# Deep Learning Core & Graphs
+torch>=2.0.0
+torch-geometric>=2.4.0
